@@ -72,3 +72,5 @@ header {
     padding: 0;
 }
 
+
+div#map {min-height: 360px;}
